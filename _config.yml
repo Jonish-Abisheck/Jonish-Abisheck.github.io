@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "compressed.jpg"
   name             : "Jonish Abisheck"
   pronouns         : # example: "she/her"  
-  bio              : "Learner"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics"
+  location         : "Chennai"
+  employer         : "Birla Institute of Science and Technology"
   uri              : # URL
   email            : "f20211743@goa.bits-pilani.ac.in" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Jonish-Abisheck"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Jonish Abisheck"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
