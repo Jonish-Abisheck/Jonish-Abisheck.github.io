@@ -20,7 +20,7 @@ I have been involved in various technical clubs and conducted research under my 
 
 I hold a minor in Robotics and am deeply interested in the field. The interdisciplinary nature of robotics makes it particularly fascinating for me to learn and explore.
 
-For a look into my projects look into my portfolio ☝️.
+To explore my projects in more detail, please take a look at my portfolio ☝️.
 
 
 
