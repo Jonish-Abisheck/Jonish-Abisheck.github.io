@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Editing a markdown file for a talk](/images/AI-Humanoid-Robots.jpg){: -align-right width="300px"}
+![Editing a markdown file for a talk](/images/AI-Humanoid-Robots.jpg){: .align-right width="300px"}
 
 📚 I'm a final year Undergraduate student from BITS-Pilani, India.
 
