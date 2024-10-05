@@ -14,7 +14,7 @@ redirect_from:
 
  I'm Currently working on my Undergraduate's thesis on Autonomous Flapping wing MAV.
 
- # Research and Experience
+<span style="font-size:24px;">Research and Experience</span>
 
 I have been involved in various technical clubs and conducted research under my professors, along with completing research internships to broaden my knowledge and skills. 
 
