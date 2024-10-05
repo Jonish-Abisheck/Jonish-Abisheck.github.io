@@ -8,10 +8,9 @@ main:
   
     - title: "Portfolio"
     url: /portfolio/
-    
+
   - title: "CV"
     url: /files/CV_ Jonish Abisheck.pdf
-
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=J2ED48QAAAAJ&hl=en
