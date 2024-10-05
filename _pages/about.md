@@ -10,7 +10,7 @@ redirect_from:
 
 📚 I'm a final-year Mechanical Engineering undergraduate student from BITS Pilani, India.
 
-🤖 My research Interest are in Robotics, I haven't chosen a specific field as of now, for now I am just exploring.
+My research Interest are in Robotics, I haven't chosen a specific field as of now, for now I am just exploring.
 
  I'm Currently working on my Undergraduate's thesis on Autonomous Flapping wing MAV.
 
