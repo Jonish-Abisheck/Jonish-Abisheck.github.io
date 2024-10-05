@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Robot](/images/AI-Humanoid-Robots.jpg){: .align-right width="300px" height="400px"}
+![Robot](/images/Robot.jpg){: .align-right width="300px" height="400px"}
 
 📚 I'm a final-year Mechanical Engineering undergraduate student from BITS Pilani, India.
 
