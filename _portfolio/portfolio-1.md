@@ -1,6 +1,6 @@
 ---
 title: "Flapping wing MAV"
-excerpt: "I am Currently working on Mathematical model of an Flapping wing MAV.<br/><img src='/images/Animate.webp'>"
+excerpt: "Mathematical modeling for an autonomous flapping-wing MAV.<br/><img src='/images/Animate.webp'>"
 collection: portfolio
 ---
 
