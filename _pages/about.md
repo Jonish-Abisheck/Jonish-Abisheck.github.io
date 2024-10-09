@@ -15,7 +15,7 @@ My research interests lie in robotics, and I am currently exploring different ar
 
 # **Research and Experience**
  
-I have worked on a 3R serial robotics model for a college project. During my research internship at the Indira Gandhi Nuclear Reactor, I focused on validating the PINET code, a Python-based model for predicting output properties during heat transfer.
+I have worked on a 3R serial robotics model for a college project. During my research internship at the Indira Gandhi Nuclear Reactor, I workedfocused on validating the PINET code, a Python-based model for predicting output properties during heat transfer.
 
 Currently, for my final year thesis, I am developing a mathematical model to enable autonomous flight for a flapping-wing MAV.
 
