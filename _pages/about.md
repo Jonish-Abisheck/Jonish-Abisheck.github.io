@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Robot](/images/Robot.jpg){: .align-right width="300px" height="500px"}
+![Robot](/images/I am not a robot.webp){: .align-right width="300px" height="500px"}
 
 📚 I’m a final-year Mechanical Engineering student with a minor in Robotics and Automation.
 
