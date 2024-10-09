@@ -6,21 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# **A bit about Me**
 ![Robot](/images/Robot.jpg){: .align-right width="300px" height="500px"}
 
-📚 I'm a final-year Mechanical Engineering undergraduate student from BITS Pilani, India.
+📚 I’m a final-year Mechanical Engineering student with a minor in Robotics and Automation.
 
-My research Interest are in Robotics, I haven't chosen a specific field as of now, for now I am just exploring.
+My research interests lie in robotics, and I am currently exploring different areas to identify my specific field of focus.
 
- I'm Currently working on my Undergraduate's thesis on Autonomous Flapping wing MAV.
 
 # **Research and Experience**
  
-I have been involved in various technical clubs and conducted research under my professors, along with completing research internships to broaden my knowledge and skills. 
+I have worked on a 3R serial robotics model for a college project. During my research internship at the Indira Gandhi Nuclear Reactor, I focused on validating the PINET code, a Python-based model for predicting output properties during heat transfer.
 
-I hold a minor in Robotics and am deeply interested in the field. The interdisciplinary nature of robotics makes it particularly fascinating for me to learn and explore.
+Currently, for my final year thesis, I am developing a mathematical model to enable autonomous flight for a flapping-wing MAV.
 
-To explore my projects in more detail, please take a look at my portfolio ☝️.
+For more details on my projects, feel free to check out my portfolio ☝️.
 
 
 
