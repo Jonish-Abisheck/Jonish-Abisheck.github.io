@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# **A bit about Me**
 ![Robot](/images/Robot.jpg){: .align-right width="300px" height="500px"}
 
 📚 I’m a final-year Mechanical Engineering student with a minor in Robotics and Automation.
