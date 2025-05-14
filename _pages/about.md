@@ -8,16 +8,17 @@ redirect_from:
 ---
 ![Robot](/images/I am not a robot.webp){: .align-right width="300px" height="500px"}
 
-📚 I’m a final-year Mechanical Engineering student with a minor in Robotics and Automation.
-
-My research interests lie in robotics, and I am currently exploring different areas to identify my specific field of focus.
+📚 I’m a Mechanical Engineering graduate with a minor in Robotics and Automation.
+My research interests lie in robotics, with a particular focus on legged robotics, path planning, and human-robot interaction.
 
 
 # **Research and Experience**
  
-I have worked on a 3R serial robotics model for a college project. During my research internship at the Indira Gandhi Nuclear Reactor, I workedfocused on validating the PINET code, a Python-based model for predicting output properties during heat transfer.
+I worked on human gait analysis as part of my undergraduate projects, where I used a 2R serial robotic framework to model the leg's motion.
 
-Currently, for my final year thesis, I am developing a mathematical model to enable autonomous flight for a flapping-wing MAV.
+Additionally, I undertook a research internship at the Indira Gandhi Nuclear Research Centre, where I focused on validating the PINET code—a Python-based model used for predicting output properties during heat transfer.
+
+For my final year thesis, I developed a mathematical model for enabling autonomous flight in a flapping-wing Micro Aerial Vehicle (MAV), leveraging machine learning techniques to support control and decision-making.
 
 For more details on my projects, feel free to check out my portfolio ☝️.
 
