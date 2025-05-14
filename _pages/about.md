@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![Robot](/images/I am not a robot.webp){: .align-right width="300px" height="500px"}
 
-📚 I’m a Mechanical Engineering graduate with a minor in Robotics and Automation.
+I’m a Mechanical Engineering graduate with a minor in Robotics and Automation.
 My research interests lie in robotics, with a particular focus on legged robotics, path planning, and human-robot interaction.
 
 
